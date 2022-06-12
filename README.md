@@ -3,7 +3,7 @@ Diary project is done under the course named CE 350 Linux Utilities and Shell Sc
 
 FUNCTIONS<br>
 ——————————————————————<br>
-Home Page<br>
+<b>Home Page</b> <br>
 1)ENTER<br>
 If given input is correct opens the selected zipped diary.(Prompts password secreen).<br>
 2)Create New Diary<br>
