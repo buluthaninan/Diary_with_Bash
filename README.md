@@ -14,6 +14,7 @@ Exits program.<br>
 4)Delete<br>
 Deletes the given diary.<br><br>
 <b>Diary Content</b><br>
+<b>——————————————————————</b><br>
 1)Ok<br>
 Shows the content of selected date folder.<br>
 2)Create Entry<br>
@@ -23,6 +24,7 @@ Diary folder gets zipped. Redirects to Home Page .<br>
 4)Search<br>
 Prompts search screen to get word that is going to be searched throughout diary.<br><br>
 <b>Date Content</b><br>
+<b>——————————————————————</b><br>
 1)Ok<br>
 Shows selected entry.<br>
 2)Create Entry<br>
